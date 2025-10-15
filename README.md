@@ -53,7 +53,10 @@ This will:
 
 ## Files in this Directory
 ```bash
-main.py             # Main experiment script
-requirements.txt    # Dependencies for reproducibility
-README.md           # Project documentation (this file)
+main.py                 # Main experiment script
+main.ipynb              # Backup experiment script (if the above does not work)
+requirements.txt        # Dependencies for reproducibility
+README.md               # Project documentation (this file)
+A0252828X_Report.pdf    # Report
+
 ```
